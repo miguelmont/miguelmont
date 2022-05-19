@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @miguelmont
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-miguelmont/miguelmont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const Miguel = {
+    frontEnd: 'HTML, CSS, Bootstrap, Tailwind, Material UI, React.js',
+    backEnd: 'Node.js, Blockchain Ethereum Solidity',
+    dataBases: 'Postgre, MongoDB, Redis',
+    devOps: 'GCP, AWS, AZURE, CD/CI, Jenkins, Dockers, Kubernetes',
+    mobile: 'React Native, iOS Swift'
+}
